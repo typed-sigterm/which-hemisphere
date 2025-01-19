@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.14.0",
+    "@commitlint/cli": "^19.6.1",
+    "@commitlint/config-conventional": "^19.6.0",
+    "@tsconfig/bun": "^1.0.7",
+    "@typed-sigterm/eslint-config": "^1.4.0",
+    "@types/bun": "latest",
+    "eslint": "^9.18.0",
+    "husky": "^9.1.7"
+  }
+}
