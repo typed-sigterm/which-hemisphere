@@ -27,9 +27,9 @@ You can also copy `mod.ts` on the `latest` branch into your project. The source 
 import { Hemisphere, hemisphere } from '@typed-sigterm/which-hemisphere';
 
 const which = hemisphere();
-if (which === Hemisphere.Northern)
+if (which === Hemisphere.N)
   console.log('You are in the Northern Hemisphere!');
-else if (which === Hemisphere.Southern)
+else if (which === Hemisphere.S)
   console.log('You are in the Southern Hemisphere!');
 else
   console.log('( •́ _ •̀)？');

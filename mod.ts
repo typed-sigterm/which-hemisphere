@@ -8,8 +8,8 @@
 
 /** Enumerates the two hemispheres of the Earth. */
 export enum Hemisphere {
-  Northern = 1,
-  Southern = 2,
+  N = 1,
+  S = 2,
 }
 
 /**
