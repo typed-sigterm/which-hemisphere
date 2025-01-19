@@ -1,4 +1,4 @@
-# Which Hemisphere ![on JSR](https://jsr.io/badges/@typed-sigterm/which-hemisphere)
+# Which Hemisphere [![on JSR](https://jsr.io/badges/@typed-sigterm/which-hemisphere)](https://jsr.io/@typed-sigterm/which-hemisphere)
 
 Determining which hemisphere you are in, based on the time zone. Zero dependencies.
 
