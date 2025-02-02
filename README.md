@@ -1,6 +1,8 @@
 > [!CAUTION]
 >
 > Due to existing data errors, it's not recommended to use this package. Learn more in [#3](https://github.com/typed-sigterm/which-hemisphere/discussions/3).
+>
+> Community contributions are welcome.
 
 # Which Hemisphere ![on JSR](https://jsr.io/badges/@typed-sigterm/which-hemisphere)
 
